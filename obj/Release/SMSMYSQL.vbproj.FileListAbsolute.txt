@@ -1,0 +1,13 @@
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\bin\Release\SMSMYSQL.exe
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\bin\Release\SMSMYSQL.pdb
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\bin\Release\SMSMYSQL.xml
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.Form1.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.List_of_Members.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.Main.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.MemberProfile.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.Resources.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.exe
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.xml
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Release\SMSMYSQL.pdb

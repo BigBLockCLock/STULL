@@ -1,0 +1,221 @@
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\obj\Debug\SMSMYSQL.Form1.resources
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+C:\Users\joken\AppData\Local\Temporary Projects\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+D:\DIVS for update\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\joken\Documents\Visual Studio 2008\Projects\SMSMYSQL\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+D:\DIVS for update\ATMSSMS aug 29\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.AboutBox1.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+C:\Users\jokenhp\Downloads\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.AboutBox1.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+E:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\MySql.Data.dll
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.AboutBox1.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+G:\Joken FIles\7 23 2017 HP Download folder\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\joken\Documents\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+C:\Users\joken\Documents\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+C:\Users\joken\Documents\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.AboutBox1.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+D:\From C\DOCUMENTS\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.exe
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.pdb
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\bin\Debug\SMSMYSQL.xml
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.AboutBox1.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+C:\Users\Windows\Desktop\ATMSSMS 2 18 2016\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.Cache
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.AssemblyReference.cache
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.AboutBox1.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.broadcast.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.Database.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.defaults.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.dtr.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.ATMS.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.Form3.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.frmReports.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.LoginForm1.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.Main.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.MemberProfile.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.Resources.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.newdefaults.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.newgradelvl.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.SplashScreen1.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.useraccounts.resources
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.GenerateResource.cache
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.vbproj.CoreCompileInputs.cache
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.exe
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.xml
+C:\Users\romeo\Downloads\ATMSSMS\SMSMYSQL\obj\Debug\SMSMYSQL.pdb
